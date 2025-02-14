@@ -69,7 +69,16 @@ Select **8** to exit.
 ## Database Schema
 The system uses two main database tables:
 - **Account**: Stores account details (ID, bank name, status, balance).
+  Example:
+  <p align="center">
+      <img src="https://github.com/user-attachments/assets/26e08f57-ba01-490d-a4ed-abdedc985d57" alt="" width="600">
+</p>
+
 - **Historic**: Stores transaction records (ID, account ID, type, amount, date).
+  Example:
+  <p align="center">
+      <img src="https://github.com/user-attachments/assets/5ac7513d-eafd-4aa2-b9ed-f9d098338ef6" alt="" width="600">
+  </p>
 
 ## Error Handling
 - Prevents creating duplicate accounts with the same bank.

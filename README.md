@@ -71,13 +71,13 @@ The system uses two main database tables:
 - **Account**: Stores account details (ID, bank name, status, balance).
   Example:
   <p align="center">
-      <img src="https://github.com/user-attachments/assets/26e08f57-ba01-490d-a4ed-abdedc985d57" alt="" width="700">
+      <img src="https://github.com/user-attachments/assets/26e08f57-ba01-490d-a4ed-abdedc985d57" alt="" width="800">
 </p>
 
 - **Historic**: Stores transaction records (ID, account ID, type, amount, date).
   Example:
   <p align="center">
-      <img src="https://github.com/user-attachments/assets/5ac7513d-eafd-4aa2-b9ed-f9d098338ef6" alt="" width="700">
+      <img src="https://github.com/user-attachments/assets/5ac7513d-eafd-4aa2-b9ed-f9d098338ef6" alt="" width="800">
   </p>
 
 ## Error Handling

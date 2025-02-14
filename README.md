@@ -87,4 +87,4 @@ The system uses two main database tables:
 
 ## Observations
 - IDE used: <a href="https://code.visualstudio.com/download">Visual Studio Code</a>.
-- Database viewer used <a href="https://github.com/qwtel/sqlite-viewer-vscode">SQLite Viwer for VS Code</a>.
+- Database viewer used: <a href="https://github.com/qwtel/sqlite-viewer-vscode">SQLite Viwer for VS Code</a>.

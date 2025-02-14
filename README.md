@@ -85,4 +85,6 @@ The system uses two main database tables:
 - Disallows deactivating accounts with a nonzero balance.
 - Ensures sufficient balance before processing withdrawals or transfers.
 
-
+## Observations
+- IDE used in the project: <a href="https://code.visualstudio.com/download">Visual Studio Code</a>.
+- Database viewer used <a href="https://github.com/qwtel/sqlite-viewer-vscode">SQLite Viwer for VS Code</a>.

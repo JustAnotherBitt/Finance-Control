@@ -22,18 +22,19 @@ This is a simple financial management system that allows users to create and man
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-repo/financial-management.git
+   
    cd financial-management
    ```
 2. Create a virtual environment (optional but recommended):
    ```sh
    python -m venv venv    # On Linux use: python3 -m venv venv
+   
    venv\Scripts\activate  # On Linux use: source venv/bin/activate
    ```
 3. Install dependencies:
    ```sh
    pip install sqlmodel
-   ```
-   ```sh
+   
    pip install matplotlib
    ```
 4. Run the program:

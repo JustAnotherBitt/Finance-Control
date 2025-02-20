@@ -3,6 +3,14 @@
 ## Overview
 This is a simple financial management system that allows users to create and manage bank accounts, transfer funds, track transactions, and visualize financial data. The system is built using Python with SQLModel and SQLite for database management.
 
+## First look
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/fcf9f358-d216-4aee-a340-9d7521f79b99" alt="" width="500">
+</p>
+
+
+
 ## Features
 - **Create account**: Open a new bank account.
 - **Deactivate account**: Deactivate an existing account (only if balance is zero).

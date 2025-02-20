@@ -6,6 +6,10 @@ class UI:
     def start(self):
         while True:
             print('''
+            ===============================      
+            Welcome to the Finance Control!
+            ===============================
+                  
             [1] -> Create account
             [2] -> Deactivate account
             [3] -> Transfer money

@@ -21,7 +21,7 @@ This is a simple financial management system that allows users to create and man
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/JustAnotherBitt/Finance-Control/tree/main
+   git clone https://github.com/JustAnotherBitt/Finance-Control.git
    cd financial-management
    ```
 2. Create a virtual environment (optional but recommended):
